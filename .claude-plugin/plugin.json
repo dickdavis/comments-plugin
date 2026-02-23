@@ -1,0 +1,8 @@
+{
+  "name": "comments-plugin",
+  "description": "Claude Code plugin for writing effective interface and implementation comments.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dick Davis"
+  }
+}
