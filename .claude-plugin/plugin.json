@@ -1,6 +1,6 @@
 {
-  "name": "comments-plugin",
-  "description": "Claude Code plugin for writing effective interface and implementation comments.",
+  "name": "technical-writer",
+  "description": "Claude Code plugin for writing effective technical documentation.",
   "version": "0.1.0",
   "author": {
     "name": "Dick Davis"
